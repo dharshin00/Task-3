@@ -1,4 +1,4 @@
-# Vulnerability Report – Task 3 (Phone Scan)
+# Vulnerability Report – Task 3
 
 ## Scan Summary
 
